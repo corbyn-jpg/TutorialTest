@@ -29,5 +29,14 @@ body{
 .topNav a.active{
     background-color: #04aa6d;
     color: white;
+}
 
+header img{
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2em;
+    opacity: 0.75;
+    border-radius: 50%;
 }
